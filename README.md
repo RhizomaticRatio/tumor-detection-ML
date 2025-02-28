@@ -44,7 +44,7 @@ If you find any issues or have suggestions, feel free to:
 
 ## 📞 Contact
 
-📧 Ogulcan ULU
+📧 Oğulcan ULU
 
 ogulcan.ulu7@gmail.com / ogulcan.ulu@studenti.unipd.it
 
