@@ -19,6 +19,9 @@ The goal is to develop a **machine learning model** to detect the presence of tu
  **No-Tumor Images** → Healthy cases.  
  **Note:** The project focuses on binary classification (Tumor vs. No-Tumor), not classifying tumor types.
 
+**Dataset from:**
+ Msoud Nickparvar. (2021). Brain Tumor MRI Dataset [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/2645886
+
 ## Setup & Installation
 **Prerequisites**
 
