@@ -5,7 +5,7 @@
 ---
 
 ## Project Overview  
-This project applies **machine learning techniques** to classify **brain MRI images** into two categories:  
+This project applies **machine learning techniques** to classify **brain MRI images (images are in .jpg not .nii files)**  into two categories:  
  **Tumor** (Glioma, Meningioma, Pituitary tumors)  
  **No-Tumor** (Healthy brain scans)  
 
